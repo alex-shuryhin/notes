@@ -1,0 +1,7 @@
+# Form
+
+Create form.py
+Link NameForm to template (edit: url, view)
+Display form in template
+Apply settings and styles
+Accept and work with data
